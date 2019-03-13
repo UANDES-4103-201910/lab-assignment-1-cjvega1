@@ -22,6 +22,7 @@ The tags that i can find are:
 - span: defines a selection in a document
 - img: defines an image
   
+  
 4) There are 6 items donwloaded in the cloud icon, these are:
 - the "news.css" is a documet in charge of the style and design of the page
 - "hn.js" is a code in charge of the functions, events and interactions
@@ -30,10 +31,13 @@ The tags that i can find are:
 - "s.gif" is an image or gif present in the page
 - "y18.gif" is an image or gif present in the page
 
+
 5) the "xhr request" is a method used to obtain info and data form a page whithout a complete reload of that page, that means that the
 web browser only needs to recharge a part of the data. This request is used when you reload the page and i think that this only aplies for 
 pages with a lot of info.
 
-6)
+
+6) the certifying authority that emitted this certificate is: COMODO RSA Domain Validation Secure Server CA, and is valid from
+21-08-2014 until 21-08-2019
 
 
